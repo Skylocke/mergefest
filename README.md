@@ -26,14 +26,22 @@ Now lets pull but take our local changes:
 
 (In your normal repos to keep your changes, use `git pull upstream master -s recursive -X ours`)
 
+<<<<<<< HEAD
 3. Edit this with your favorite fruit *Cow* and your favorite song *Amsterdam*.
+=======
+3. Edit this with your favorite fruit *yo yo yo* and your favorite song *hi hi hi*.
+>>>>>>> b56a33ba2576f4ed2e8741a371444c2d1ab53726
 ----------------------------------------------
 
 Also, write anything you want below this line. :) 
 
 \/\/\/\/\/\/\/\/\/\/\/\/\/
    
+<<<<<<< HEAD
 WHY AM I ALIVE
+=======
+(**I LOVE EDITSSSSS!**)
+>>>>>>> b56a33ba2576f4ed2e8741a371444c2d1ab53726
    
 /\/\/\/\/\/\/\/\/\/\/\/\/\
 
